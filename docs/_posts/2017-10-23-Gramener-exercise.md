@@ -5,9 +5,9 @@ date: 2017-10-23 18:18:00 +0530
 comments: false
 ---
 
-This post describes how I solved the Use Case given as Gramener assignment
+This post describes how I solved the Use Case given in Gramener assignment
 
-Following use case I opted for
+I opted for the following use case
 
 Indian government carries out census every decade. This dataset contains information from the 2011 census with district level granularity on population, gender, literacy, socioeconomic status (electricity, mobiles, Internet) among a lot of other dimensions.
 

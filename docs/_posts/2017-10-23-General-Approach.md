@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "General Approach"
+title: "Approach"
 date: 2017-10-23 18:17:00 +0530
 comments: false
 ---
 
-The General Approach to solve the given problem boils down to the following steps
+The approach to solve the given problem, following steps are common for all 3 answers
 
 Firstly load the required libraires which are needed to analyse the data.
 
@@ -13,7 +13,7 @@ Firstly load the required libraires which are needed to analyse the data.
 import numpy as np                # to load numpy library
 import pandas as pd               # to load panda library
 import matplotlib.pyplot as plt   # to load the matplotlib library only pyplot to ploy the graphs
-%matplotlib inline                # switching to inline mode in jupyter notebook
+%matplotlib inline                
 %pylab inline
 {% endhighlight %}
 
@@ -31,4 +31,6 @@ To display the list of the columns which are in cvs file
 list(df)
 {% endhighlight %}
 
-This will output the list which have all the coloums present in the cvs file 
+This will output the list which have all the columns present in the cvs file
+
+After this the Approach to solve each question varies as the data / method required to solve each question varies
