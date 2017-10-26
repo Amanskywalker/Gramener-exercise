@@ -8,8 +8,6 @@ The detailed approach to individual problems can be found on [http://me.amanskyw
 
 #### Installation
 
-You can find the installation documentation for the Jupyter platform, on ReadTheDocs. The documentation for advanced usage of Jupyter notebook can be found here.
-
 For a local installation, make sure you have pip installed and run:
 
 $ pip install notebook
